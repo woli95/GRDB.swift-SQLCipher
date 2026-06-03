@@ -1,4 +1,4 @@
-module GRDBSQLCipher {
+module GRDBSQLite {
     header "SQLCipher_config.h"
     export *
  }
